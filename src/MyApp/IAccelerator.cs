@@ -1,0 +1,3 @@
+interface IAccelerator {
+    void Accelerator();
+}
